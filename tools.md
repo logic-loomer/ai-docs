@@ -12,7 +12,7 @@ A short, focused list of AI tools I find genuinely useful in day-to-day learning
 | **ChatGPT** | My go-to for brainstorming, code generation, learning concepts, and debugging. | [chat.openai.com](https://chat.openai.com) |
 | **Perplexity AI** | Great for AI-assisted search with citations. Fast and helpful for research questions. | [perplexity.ai](https://www.perplexity.ai) |
 | **NotebookLM** | Great for AI-assisted search with your documents. Fast and helpful for research within your documents. | [NotebookLM](https://notebooklm.google.com/) |
-| **Google AI Studio** | Great for screensharing and talking through problems on screen | [Google AI Studio](https://aistudio.google.com/) |
+| **Google AI Studio** | Great for screensharing and talking through problems on screen. | [Google AI Studio](https://aistudio.google.com/) |
 
 
 ---
