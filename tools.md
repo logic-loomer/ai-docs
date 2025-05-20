@@ -11,7 +11,7 @@ A short, focused list of AI tools I find genuinely useful in day-to-day learning
 | **Anthropic Console** | Use Claude for advanced prompt writing, summarisation, and reasoning tasks. | [Anthropic Console](https://console.anthropic.com/dashboard) |
 | **ChatGPT** | My go-to for brainstorming, code generation, learning concepts, and debugging. | [chat.openai.com](https://chat.openai.com) |
 | **Perplexity AI** | Great for AI-assisted search with citations. Fast and helpful for research questions. | [perplexity.ai](https://www.perplexity.ai) |
-| **NotebookLM** | Great for AI-assisted search with your documents. Fast and helpful for research within your documents. | [NotebookLM](https://notebooklm.google.com/)) |
+| **NotebookLM** | Great for AI-assisted search with your documents. Fast and helpful for research within your documents. | [NotebookLM](https://notebooklm.google.com/) |
 
 ---
 
