@@ -1,0 +1,3 @@
+## 🔄 Next Up: Week 2 – LLM Internals & Fine-Tuning
+
+Coming soon...
